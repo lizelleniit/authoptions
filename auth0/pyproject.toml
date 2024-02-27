@@ -2,9 +2,8 @@
 name = "auth0"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Lizelle Niit <lizelleniit@gmail.com>"]
 readme = "README.md"
-packages = [{include = "auth0", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
